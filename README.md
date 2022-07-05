@@ -58,8 +58,11 @@ I implemented the following:
 - Only registered users can access all endpoints
 - I used mongoDB-compass for local development
 
-## Test coverage 
+## TO RUN THE APP
+1. run `yarn`
+2. run `yarn start`
 
+## Test coverage 
 - I wrote test to cover the application using supertest
 - I tested my database using mongodb-memory-server
 - I tested all endpoints (GET, POST, PUT, DELETE)
